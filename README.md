@@ -242,5 +242,12 @@ MCA Student | Full Stack Developer
 GitHub: [@Ravikantjha750](https://github.com/Ravikantjha750)
 
 ---
+## Application Screenshots
+
+### Dashboard
+![CloudBill Dashboard](screenshots/dashboard.png)
+
+### Point of Sale (POS)
+![CloudBill POS](screenshots/pos.png)
 
 If you find this project useful, consider giving the repository a ⭐.
