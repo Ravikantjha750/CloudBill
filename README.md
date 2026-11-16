@@ -252,4 +252,8 @@ GitHub: [@Ravikantjha750](https://github.com/Ravikantjha750)
 
 ### Product Management & Inventory
 ![CloudBill Products](screenshots/products.png)
+
+### Customers Module (Under Development)
+![CloudBill Customers](screenshots/customers.png)
+
 If you find this project useful, consider giving the repository a ⭐.
