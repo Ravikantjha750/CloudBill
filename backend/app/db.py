@@ -1,0 +1,18 @@
+import pymysql
+from pymysql.cursors import DictCursor
+
+from app.config import Config
+
+
+def get_db_connection():
+    return pymysql.connect(
+        host=Config.DB_HOST,
+        port=Config.DB_PORT,
+        user=Config.DB_USER,
+        password=Config.DB_PASSWORD,
+        database=Config.DB_NAME,
+        cursorclass=DictCursor,
+        charset="utf8mb4",
+        autocommit=False,
+        connect_timeout=5
+    )
