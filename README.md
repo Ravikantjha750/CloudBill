@@ -250,4 +250,6 @@ GitHub: [@Ravikantjha750](https://github.com/Ravikantjha750)
 ### Point of Sale (POS)
 ![CloudBill POS](screenshots/pos.png)
 
+### Product Management & Inventory
+![CloudBill Products](screenshots/products.png)
 If you find this project useful, consider giving the repository a ⭐.
