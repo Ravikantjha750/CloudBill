@@ -256,4 +256,6 @@ GitHub: [@Ravikantjha750](https://github.com/Ravikantjha750)
 ### Customers Module (Under Development)
 ![CloudBill Customers](screenshots/customers.png)
 
+### Sales & Invoices (Under Development)
+![CloudBill Sales & Invoices](screenshots/sales-invoices.png)
 If you find this project useful, consider giving the repository a ⭐.
