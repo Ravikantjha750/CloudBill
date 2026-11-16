@@ -258,4 +258,8 @@ GitHub: [@Ravikantjha750](https://github.com/Ravikantjha750)
 
 ### Sales & Invoices (Under Development)
 ![CloudBill Sales & Invoices](screenshots/sales-invoices.png)
+
+### Inventory Module (Under Development)
+![CloudBill Inventory](screenshots/inventory.png)
+
 If you find this project useful, consider giving the repository a ⭐.
