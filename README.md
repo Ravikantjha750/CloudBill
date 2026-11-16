@@ -265,5 +265,8 @@ GitHub: [@Ravikantjha750](https://github.com/Ravikantjha750)
 ### Reports Module (Under Development)
 ![CloudBill Reports](screenshots/reports.png)
 
+### Settings Module (Under Development)
+![CloudBill Settings](screenshots/settings.png)
+
 
 If you find this project useful, consider giving the repository a ⭐.
